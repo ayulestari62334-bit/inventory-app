@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/inventoryasset",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\InventoryAsset\\": "app/",
+            "Modules\\InventoryAsset\\Database\\Factories\\": "database/factories/",
+            "Modules\\InventoryAsset\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\InventoryAsset\\Tests\\": "tests/"
+        }
+    }
+}

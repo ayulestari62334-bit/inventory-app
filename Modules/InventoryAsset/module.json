@@ -1,0 +1,11 @@
+{
+    "name": "InventoryAsset",
+    "alias": "inventoryasset",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\InventoryAsset\\app\\Providers\\InventoryAssetServiceProvider"
+    ],
+    "files": []
+}
