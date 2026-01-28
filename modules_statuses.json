@@ -1,3 +1,5 @@
 {
-    "InventoryAsset": true
+    "InventoryAsset": true,
+    "Model": true,
+    "Merk": true
 }
